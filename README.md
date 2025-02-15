@@ -18,6 +18,9 @@ Para começar a usar a API da OpenAI em seus projetos, você precisará de uma *
 4. **Copie a chave gerada**:
    - A chave gerada aparecerá. **Copie-a imediatamente**, pois ela não será exibida novamente por motivos de segurança.
 
+### Atenção:
+- **É necessário pagar para utilizar a API**: A OpenAI oferece planos pagos para usar sua API. Dependendo do seu uso, você precisará escolher um plano que atenda às suas necessidades. Consulte os [preços da OpenAI](https://openai.com/pricing) para obter mais informações.
+
 Agora que você tem a sua API Key, é hora de utilizá-la no seu código!
 
 ---
