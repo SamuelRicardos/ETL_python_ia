@@ -52,5 +52,4 @@ Primeiro, instale a biblioteca necessária (se ainda não tiver feito isso):
 ```bash
 pip install pandas
 
-```bash
 pip install openai
