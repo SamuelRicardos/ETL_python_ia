@@ -6,7 +6,7 @@ try:
 except FileNotFoundError:
     print("O arquivo CSV não foi encontrado no caminho especificado.")
     df = pd.DataFrame()
-
+#colocar a key da api dentro dos parenteses da classe OpenAI, exemplo => api_key="sua_chave"
 client = OpenAI()
 
 def ask_gpt(prompt):
